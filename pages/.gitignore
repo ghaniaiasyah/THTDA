@@ -1,0 +1,21 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# OS / editor
+.DS_Store
+.vscode/
+
+# Streamlit
+.streamlit/
+
+# Data (hindari file besar)
+data/processed/
+data/raw/
+*.parquet
+*.csv
+*.xlsx
+
+# Logs
+*.log
