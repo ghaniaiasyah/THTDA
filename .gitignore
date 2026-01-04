@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+
+data/raw/
+data/processed/
+*.xlsx
+*.parquet
+*.csv
+
+.vscode/
+.streamlit/
